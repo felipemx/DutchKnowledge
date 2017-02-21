@@ -34,8 +34,10 @@ A simple project to store links for useful content for whose want to learn the D
 
 #Online Dictionary
 * [Woordenlijst] (http://woordenlijst.org/)
+
 > Online dictionary with a full description for each word.
 
 #Social Media
 * [Twitter List 'Nederlandsetaal'] (https://twitter.com/FelipeMX/lists/NederlandseTaal)
+
 > I have a list on Twitter where I store accounts that do posts in Dutch.
