@@ -10,7 +10,7 @@ A simple project to store links for useful content for whose want to learn the D
 <!-- toc stop -->
 
 #Study
-* [Duolingo] (https://www.duolingo.com/course/nl-NL/en/Learn-Dutch-Online) {:target="_blank"}
+* [Duolingo] (https://www.duolingo.com/course/nl-NL/en/Learn-Dutch-Online)
 > Online tool to train languages. Exercises your reading, writing, listening and speaking skills.
 
 * [Future Learn (on behalf of University of Groningen) - Introduction to Dutch] (https://www.futurelearn.com/courses/dutch)
