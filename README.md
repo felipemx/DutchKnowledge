@@ -44,7 +44,7 @@ A simple project to store links for useful content for whose want to learn the D
 #Social Media
 * [Twitter List 'Nederlandsetaal'] (https://twitter.com/FelipeMX/lists/NederlandseTaal)
 
+> I have a list on Twitter where I store accounts that do posts in Dutch.
+
 #Ebook
 * [E-book Online Dutch Grammar Course] (http://www.dutchgrammar.com/en/?n=Downloads.01)
-
-> I have a list on Twitter where I store accounts that do posts in Dutch.
