@@ -72,8 +72,10 @@ A simple project to store links for useful content for whose want to learn the D
 
 #General Content
 * [Direct Dutch] (http://www.directdutch.com/)
+
 > Website with articles and tests to improve your knowledge in Dutch.
 
 #Games and Flashcards
 * [Quia] (https://www.quia.com/pages/dutchatstandby.html)
+
 > This site contains lots of games and also some flashcards to practice the Dutch language.
