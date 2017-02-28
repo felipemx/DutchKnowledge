@@ -77,7 +77,6 @@ A simple project to store links for useful content for whose want to learn the D
 
 #Games and Flashcards
 * [Quia] (https://www.quia.com/pages/dutchatstandby.html)
-
 > This site contains lots of games and also some flashcards to practice the Dutch language.
 
 
