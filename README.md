@@ -79,3 +79,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Quia] (https://www.quia.com/pages/dutchatstandby.html)
 
 > This site contains lots of games and also some flashcards to practice the Dutch language.
+
+* [Learn with Oliver] (https://www.learnwitholiver.com/dutch/)
+> Website containing flashcards to words, phrases and texts.
+
+* [Quizlet] (https://quizlet.com/subject/dutch/)
+> Flashcards with words and expressions in Dutch.
