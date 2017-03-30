@@ -56,8 +56,9 @@ A simple project to store links for useful content for whose want to learn the D
     * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
     * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
     * [Za Ka](https://www.youtube.com/channel/UCmtBbGtobfeWoHtDnbY9-kw)
+    * [NMBS - The national Belgian rail company](https://www.youtube.com/user/NMBStv/)
 * Vimeo
- * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
+    * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
 
 #Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
