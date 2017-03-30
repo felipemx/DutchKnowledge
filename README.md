@@ -34,7 +34,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Taalblad.be - Woordleer](http://www.taalblad.be/woordleer)
 > Topics with contents related to the Dutch grammar. 
 
-* [Transparent.com] (http://www.transparent.com/learn-dutch//)
+* [Transparent.com](http://www.transparent.com/learn-dutch//)
 > Website with online course, articles and quizzes about Dutch language.
 
 * [Goethe Verlag](http://www.goethe-verlag.com/learn-dutch-online.html)
