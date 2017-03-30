@@ -3,9 +3,9 @@
 A simple project to store links for useful content for whose want to learn the Dutch language.
 
 <!-- toc -->
-* [Study] (#study)
-* [Video] (#video)
-* [Online Dictionary] (#online-dictionary)
+* [Study] (#Study)
+* [Video] (#Video)
+* [Online Dictionary] (#Online-dictionary)
 * [Social Media] (#social-media)
 * [Ebook] (#ebook)
 * [General Content] (#general-content)
