@@ -55,6 +55,7 @@ A simple project to store links for useful content for whose want to learn the D
     * [Learn Dutch/Flemish](https://www.youtube.com/channel/UC7PuHIsZ3PQHWMDXS8pyDcw)
     * [College voor Examens](https://www.youtube.com/user/CollegevoorExamens)
     * [Learn Dutch playlist - Wouter Corduwener](https://www.youtube.com/playlist?list=PLwQq8rc0T_HF2ba_qFdMHhxHZKIl7he_n)
+    * [Paolo Sanseverino](https://www.youtube.com/channel/UC9pj96Qd964u6Fo-y9HR9Ag/videos)
  * Entertainment
     * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
     * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
