@@ -3,16 +3,16 @@
 A simple project to store links for useful content for whose want to learn the Dutch language.
 
 <!-- toc -->
-* [Study](#study)
-* [Video](#video)
-* [Online Dictionary](#online-dictionary)
-* [Social Media](#social-media)
-* [Ebook](#ebook)
-* [General Content](#general-content)
-* [Games and Flashcards](#games-and-flashcards)
+* [Study](#Study)
+* [Video](#Video)
+* [Online Dictionary](#Online-Dictionary)
+* [Social Media](#Social-Media)
+* [Ebook](#Ebook)
+* [General Content](#General-Content)
+* [Games and Flashcards](#Games-and-Flashcards)
 <!-- toc stop -->
 
-#Study
+## Study
 * [Duolingo](https://www.duolingo.com/course/nl-NL/en/Learn-Dutch-Online)
 > Online tool to train languages. Exercises your reading, writing, listening and speaking skills.
 
@@ -43,7 +43,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [NedBox](https://www.nedbox.be/)
 > Dutch exercises, polls, audios, videos and contents related to Belgium.
 
-#Video
+## Video
 * YouTube
     * Language
        * [Dutch For N00bs](https://www.youtube.com/channel/UCzvus5I2fyRns04E6ivBftg)
@@ -64,25 +64,25 @@ A simple project to store links for useful content for whose want to learn the D
 * Vimeo
     * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
 
-#Online Dictionary
+## Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
 
 > Online dictionary with a full description for each word.
 
-#Social Media
+## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 
 > I have a list on Twitter where I store accounts that do posts in Dutch.
 
-#Ebook
+## Ebook
 * [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
 
-#General Content
+## General Content
 * [Direct Dutch](http://www.directdutch.com/)
 
 > Website with articles and tests to improve your knowledge in Dutch.
 
-#Games and Flashcards
+## Games and Flashcards
 * [Quia](https://www.quia.com/pages/dutchatstandby.html)
 > This site contains lots of games and also some flashcards to practice the Dutch language.
 
