@@ -40,6 +40,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Goethe Verlag](http://www.goethe-verlag.com/learn-dutch-online.html)
 > Online Dutch language course. 
 
+* [NedBox](https://www.nedbox.be/)
+> Dutch exercises, polls, audios, videos and contents related to Belgium.
+
 #Video
 * YouTube
  * Language
