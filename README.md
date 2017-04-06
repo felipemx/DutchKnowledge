@@ -69,6 +69,14 @@ A simple project to store links for useful content for whose want to learn the D
 
 > Online dictionary with a full description for each word.
 
+* [Woorden](http://www.woorden.org/)
+
+> Online dictionary with examples in sentences, texts and audios.
+
+* [MWB - Mijn Woordenboek](http://www.mijnwoordenboek.nl/)
+
+> Online dictionary and translator, containing also puzzles and verb list.
+
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 
@@ -81,6 +89,10 @@ A simple project to store links for useful content for whose want to learn the D
 * [Direct Dutch](http://www.directdutch.com/)
 
 > Website with articles and tests to improve your knowledge in Dutch.
+
+* [Encyclo.NL](http://www.encyclo.nl/)
+
+> Online encyclopedia organized per date, category, popular terms and other things.
 
 ## Games and Flashcards
 * [Quia](https://www.quia.com/pages/dutchatstandby.html)
