@@ -5,10 +5,12 @@ A simple project to store links for useful content for whose want to learn the D
 <!-- toc -->
 * [Study](#study)
 * [Video](#video)
+* [Radio](#radio)
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
 * [Ebook](#ebook)
 * [General Content](#general-content)
+* [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
 <!-- toc stop -->
 
@@ -43,6 +45,11 @@ A simple project to store links for useful content for whose want to learn the D
 * [NedBox](https://www.nedbox.be/)
 > Dutch exercises, polls, audios, videos and contents related to Belgium.
 
+## Radio
+* [Radio1 BE](https://radio1.be/)
+* [Radio2 BE](https://radio2.be/)
+* [StuBru](https://stubru.be/)
+
 ## Video
 * YouTube
     * Language
@@ -63,6 +70,8 @@ A simple project to store links for useful content for whose want to learn the D
        * [NMBS - The national Belgian rail company](https://www.youtube.com/user/NMBStv/)
 * Vimeo
     * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
+* Others
+    * [Vlaamse Film](http://www.vlaamsefilm.be/)
 
 ## Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
@@ -93,6 +102,10 @@ A simple project to store links for useful content for whose want to learn the D
 * [Encyclo.NL](http://www.encyclo.nl/)
 
 > Online encyclopedia organized per date, category, popular terms and other things.
+
+## News and Blogs
+* [Brussel Blogt](http://www.brusselblogt.be/)
+* [Bruzz](http://www.bruzz.be/nl)
 
 ## Games and Flashcards
 * [Quia](https://www.quia.com/pages/dutchatstandby.html)
