@@ -118,3 +118,6 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [Quizlet](https://quizlet.com/subject/dutch/)
 > Flashcards with words and expressions in Dutch.
+
+* [Puzzle Corner](http://www.puzzelcorner.nl/en/)
+> A set of puzzles, crosswords and quizzes with Dutch words
