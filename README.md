@@ -86,6 +86,10 @@ A simple project to store links for useful content for whose want to learn the D
 
 > Online dictionary and translator, containing also puzzles and verb list.
 
+* [Verbix](http://www.verbix.com/languages/dutch.shtml
+
+> Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
+
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 
@@ -121,3 +125,6 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [Puzzle Corner](http://www.puzzelcorner.nl/en/)
 > A set of puzzles, crosswords and quizzes with Dutch words
+
+* [Text-to-Speech](http://www.oddcast.com/home/demos/tts/tts_example.php?sitepal/)
+> Text-to-speech tool. You can pick Dutch and any variation available: change duration, choose Dutch or Belgian accent and lots of other effects.
