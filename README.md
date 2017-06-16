@@ -63,6 +63,7 @@ A simple project to store links for useful content for whose want to learn the D
        * [College voor Examens](https://www.youtube.com/user/CollegevoorExamens)
        * [Learn Dutch playlist - Wouter Corduwener](https://www.youtube.com/playlist?list=PLwQq8rc0T_HF2ba_qFdMHhxHZKIl7he_n)
        * [Paolo Sanseverino](https://www.youtube.com/channel/UC9pj96Qd964u6Fo-y9HR9Ag/videos)
+       * [Leviwosc](https://www.youtube.com/user/Leviwosc/videos)
     * Entertainment
        * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
        * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
@@ -75,24 +76,19 @@ A simple project to store links for useful content for whose want to learn the D
 
 ## Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
-
 > Online dictionary with a full description for each word.
 
 * [Woorden](http://www.woorden.org/)
-
 > Online dictionary with examples in sentences, texts and audios.
 
 * [MWB - Mijn Woordenboek](http://www.mijnwoordenboek.nl/)
-
 > Online dictionary and translator, containing also puzzles and verb list.
 
 * [Verbix](http://www.verbix.com/languages/dutch.shtml
-
 > Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
 
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
-
 > I have a list on Twitter where I store accounts that do posts in Dutch.
 
 ## Ebook
@@ -100,12 +96,13 @@ A simple project to store links for useful content for whose want to learn the D
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
-
 > Website with articles and tests to improve your knowledge in Dutch.
 
 * [Encyclo.NL](http://www.encyclo.nl/)
-
 > Online encyclopedia organized per date, category, popular terms and other things.
+
+* [My Language Exchange](https://www.mylanguageexchange.com/Learn/Dutch.asp)
+> Language Exchange via Email, Text Chat and Voice Chat
 
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
