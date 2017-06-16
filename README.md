@@ -84,7 +84,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [MWB - Mijn Woordenboek](http://www.mijnwoordenboek.nl/)
 > Online dictionary and translator, containing also puzzles and verb list.
 
-* [Verbix](http://www.verbix.com/languages/dutch.shtml
+* [Verbix](http://www.verbix.com/languages/dutch.shtml)
 > Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
 
 ## Social Media
