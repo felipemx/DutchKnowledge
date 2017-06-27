@@ -8,7 +8,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Radio](#radio)
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
-* [Ebook](#ebook)
+* [Ebook and Audiobook](#ebook-and-audiobook)
 * [General Content](#general-content)
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
@@ -91,8 +91,13 @@ A simple project to store links for useful content for whose want to learn the D
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 > I have a list on Twitter where I store accounts that do posts in Dutch.
 
-## Ebook
-* [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
+## Ebook and Audiobook
+* Ebook
+    * [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
+    * [Project Gutemberg - Online Book Catalog](http://www.gutenberg.org/browse/languages/nl)
+    * [ECI](https://www.eci.nl/ebooks)
+* Audiobook
+    * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
