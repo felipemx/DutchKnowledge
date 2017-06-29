@@ -112,6 +112,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [My Language Exchange](https://www.mylanguageexchange.com/Learn/Dutch.asp)
 > Language Exchange via Email, Text Chat and Voice Chat
 
+* [Nederlandse taaloefeningen voor anderstaligen](http://nl.ver-taal.com/index.htm)
+> Videos, grammar, exercises and lots of different contents related to the Dutch language.
+
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
 * [Bruzz](http://www.bruzz.be/nl)
@@ -120,10 +123,8 @@ A simple project to store links for useful content for whose want to learn the D
 * [Quia](https://www.quia.com/pages/dutchatstandby.html)
 > This site contains lots of games and also some flashcards to practice the Dutch language.
 
-
 * [Learn with Oliver](https://www.learnwitholiver.com/dutch/)
 > Website containing flashcards to words, phrases and texts.
-
 
 * [Quizlet](https://quizlet.com/subject/dutch/)
 > Flashcards with words and expressions in Dutch.
