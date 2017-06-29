@@ -12,6 +12,8 @@ A simple project to store links for useful content for whose want to learn the D
 * [General Content](#general-content)
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
+* [Groups](#groups)
+
 <!-- toc stop -->
 
 ## Study
@@ -130,3 +132,8 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [Text-to-Speech](http://www.oddcast.com/home/demos/tts/tts_example.php?sitepal/)
 > Text-to-speech tool. You can pick Dutch and any variation available: change duration, choose Dutch or Belgian accent and lots of other effects.
+
+## Groups
+* [The Dutch Grammar Forum](http://www.dutchgrammar.com/forum/index.php)
+* [Yahoo! Groups - NEDERLANDS - Dutch](https://groups.yahoo.com/neo/groups/Nederlands/info)
+* [Yahoo! Groups - Study Dutch and/or English](https://groups.yahoo.com/neo/groups/DUTCH-ENGLISH-STUDY-GROUP/info)
