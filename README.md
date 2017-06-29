@@ -47,6 +47,15 @@ A simple project to store links for useful content for whose want to learn the D
 * [NedBox](https://www.nedbox.be/)
 > Dutch exercises, polls, audios, videos and contents related to Belgium.
 
+* [SpeakDutch](http://www.speakdutch.nl/)
+> Basic Dutch grammar course, key phrases, tips about most common words for a basic comprehension of Dutch language.
+
+* [Nederlandse taaloefeningen voor anderstaligen](http://nl.ver-taal.com/index.htm)
+> Videos, grammar, exercises and lots of different contents related to the Dutch language.
+
+ * [Taal thuis](http://www.taalthuis.com/)
+ > Contents for beginners, intermediates and advanceds students of Dutch with grammar, theory and tests to improve your knowledge in this language.
+
 ## Radio
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
@@ -111,9 +120,6 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [My Language Exchange](https://www.mylanguageexchange.com/Learn/Dutch.asp)
 > Language Exchange via Email, Text Chat and Voice Chat
-
-* [Nederlandse taaloefeningen voor anderstaligen](http://nl.ver-taal.com/index.htm)
-> Videos, grammar, exercises and lots of different contents related to the Dutch language.
 
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
