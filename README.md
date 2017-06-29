@@ -51,6 +51,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
 * [StuBru](https://stubru.be/)
+* [Klara](https://klara.be/)
 
 ## Video
 * YouTube
