@@ -67,6 +67,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Hear Dutch Here](http://www.heardutchhere.net/)
 > On this website you can hear tens of thousands of Dutch words and thousands of phrases, study Dutch vocabulary, pronunciation and grammar, read and listen to Dutch texts (with English translation), hear more than a thousand Dutch names and read about The Netherlands history and culture.
 
+* [Oefenen.NL](https://oefenen.nl/programma)
+> A bunch of courses for reading, writing and listening in Dutch. You need to register to access the contents.
+
 ## Radio
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
