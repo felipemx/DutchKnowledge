@@ -9,6 +9,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
 * [Audio](#audio)
+* [Ebook](#ebook)
 * [General Content](#general-content)
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
@@ -92,7 +93,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Learn Dutch playlist - Wouter Corduwener](https://www.youtube.com/playlist?list=PLwQq8rc0T_HF2ba_qFdMHhxHZKIl7he_n)
 * [Paolo Sanseverino](https://www.youtube.com/channel/UC9pj96Qd964u6Fo-y9HR9Ag/videos)
 * [Leviwosc](https://www.youtube.com/user/Leviwosc/videos)
-* [VRTTaal](https://www.youtube.com/channel/UCcrNIO8DumCM09VxSVlfHbA)
+* [VRT Taal](https://www.youtube.com/channel/UCcrNIO8DumCM09VxSVlfHbA)
 * [Ad Appel](https://www.youtube.com/user/gesprokennederlands/videos)
 #### Entertainment
 * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
@@ -117,21 +118,29 @@ A simple project to store links for useful content for whose want to learn the D
 * [Verbix](http://www.verbix.com/languages/dutch.shtml)
 > Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
 
+* [VRT Taaldatabank](http://taal.vrt.be/woordenboeken-0)
+> You can search for free in the basic version of Van Dale's dictionaries. For the full versions, you must subscribe.
+
+* [Synoniemen](http://synoniemen.net/)
+> Online dictionary for synonims.
+
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 > I have a list on Twitter where I store accounts that do posts in Dutch.
 
 ## Audio
 * [Map of Dutch dialects](http://www.meertens.knaw.nl/projecten/sprekende_kaart/svg/)
-### Ebook
-* [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
-* [Project Gutemberg - Online Book Catalog](http://www.gutenberg.org/browse/languages/nl)
-* [ECI](https://www.eci.nl/ebooks)
 ### Audiobook
 * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
 ### Podcasts
 * [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
 * [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
+
+## Ebook
+* [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
+* [Project Gutemberg - Online Book Catalog](http://www.gutenberg.org/browse/languages/nl)
+* [ECI](https://www.eci.nl/ebooks)
+* [E-ANS - Eletronic version of Algemene Nederlandse Spraakkunst](http://ans.ruhosting.nl/e-ans/)
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
@@ -142,6 +151,12 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [My Language Exchange](https://www.mylanguageexchange.com/Learn/Dutch.asp)
 > Language Exchange via Email, Text Chat and Voice Chat
+
+* [Taaladvies](http://taaladvies.net/)
+> In Taaladvies you will find answers to many specific questions about language and spelling.
+
+* [Taalhelden](http://taalhelden.org/)
+> Website focused on young people containing videos and texts in Dutch language.
 
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
