@@ -14,6 +14,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
 * [Groups](#groups)
+* [Exams](#exams)
 
 <!-- toc stop -->
 
@@ -150,3 +151,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [The Dutch Grammar Forum](http://www.dutchgrammar.com/forum/index.php)
 * [Yahoo! Groups - NEDERLANDS - Dutch](https://groups.yahoo.com/neo/groups/Nederlands/info)
 * [Yahoo! Groups - Study Dutch and/or English](https://groups.yahoo.com/neo/groups/DUTCH-ENGLISH-STUDY-GROUP/info)
+
+## Exams
+* [Inburgeren in Nederland](https://inburgeren.nl/examen-doen.jsp)
+> Information about the exam containing videos, audios and exercises.
+* [CNaVT - Certificaat Nederlands als Vreemde Taal ](http://cnavt.org/)
+> Information about the exam Dutch as Foreign Language.
