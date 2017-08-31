@@ -113,8 +113,8 @@ A simple project to store links for useful content for whose want to learn the D
     * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
 
 ## Podcasts
-* [Neerlandia Journal `Discontinued`](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/)
-* [Laura speaks Dutch `Discontinued`](http://www.lauraspeaksdutch.info/)
+* [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
+* [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
