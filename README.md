@@ -9,6 +9,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
 * [Ebook and Audiobook](#ebook-and-audiobook)
+* [Podcasts](#podcasts)
 * [General Content](#general-content)
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
@@ -110,6 +111,10 @@ A simple project to store links for useful content for whose want to learn the D
     * [ECI](https://www.eci.nl/ebooks)
 * Audiobook
     * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
+
+## Podcasts
+* [Neerlandia Journal `Discontinued`](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/)
+* [Laura speaks Dutch `Discontinued`](http://www.lauraspeaksdutch.info/)
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
