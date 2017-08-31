@@ -4,8 +4,8 @@ A simple project to store links for useful content for whose want to learn the D
 
 <!-- toc -->
 * [Study](#study)
-* [Video](#video)
 * [Radio](#radio)
+* [Video](#video)
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
 * [Ebook and Audiobook](#ebook-and-audiobook)
@@ -57,6 +57,15 @@ A simple project to store links for useful content for whose want to learn the D
 
  * [Taal thuis](http://www.taalthuis.com/)
  > Contents for beginners, intermediates and advanceds students of Dutch with grammar, theory and tests to improve your knowledge in this language.
+
+* [NT2 Taal Menu](http://nt2taalmenu.nl/)
+> Contents for all levels, exercises in PDF and lots of links for helpful content.
+
+* [Lesexpress Dutch](https://www.lesexpres.nl/language_EN/index.php?taalkeuze=DS&)
+> The idea behind this course to learn basic Dutch in a friendly community setting where you can make your interactive exercises.
+
+* [Hear Dutch Here](http://www.heardutchhere.net/)
+> On this website you can hear tens of thousands of Dutch words and thousands of phrases, study Dutch vocabulary, pronunciation and grammar, read and listen to Dutch texts (with English translation), hear more than a thousand Dutch names and read about The Netherlands history and culture.
 
 ## Radio
 * [Radio1 BE](https://radio1.be/)
