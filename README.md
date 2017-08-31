@@ -8,8 +8,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Video](#video)
 * [Online Dictionary](#online-dictionary)
 * [Social Media](#social-media)
-* [Ebook and Audiobook](#ebook-and-audiobook)
-* [Podcasts](#podcasts)
+* [Audio](#audio)
 * [General Content](#general-content)
 * [News and Blogs](#news-and-blogs)
 * [Games and Flashcards](#games-and-flashcards)
@@ -90,6 +89,7 @@ A simple project to store links for useful content for whose want to learn the D
        * [Learn Dutch playlist - Wouter Corduwener](https://www.youtube.com/playlist?list=PLwQq8rc0T_HF2ba_qFdMHhxHZKIl7he_n)
        * [Paolo Sanseverino](https://www.youtube.com/channel/UC9pj96Qd964u6Fo-y9HR9Ag/videos)
        * [Leviwosc](https://www.youtube.com/user/Leviwosc/videos)
+       * [VRTTaal](https://www.youtube.com/channel/UCcrNIO8DumCM09VxSVlfHbA)
     * Entertainment
        * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
        * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
@@ -117,17 +117,17 @@ A simple project to store links for useful content for whose want to learn the D
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 > I have a list on Twitter where I store accounts that do posts in Dutch.
 
-## Ebook and Audiobook
+## Audio
+* [Map of Dutch dialects](http://www.meertens.knaw.nl/projecten/sprekende_kaart/svg/)
 * Ebook
     * [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
     * [Project Gutemberg - Online Book Catalog](http://www.gutenberg.org/browse/languages/nl)
     * [ECI](https://www.eci.nl/ebooks)
 * Audiobook
     * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
-
-## Podcasts
-* [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
-* [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
+* Podcasts
+    * [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
+    * [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
 
 ## General Content
 * [Direct Dutch](http://www.directdutch.com/)
