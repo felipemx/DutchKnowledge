@@ -69,6 +69,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Oefenen.NL](https://oefenen.nl/programma)
 > A bunch of courses for reading, writing and listening in Dutch. You need to register to access the contents.
 
+* [Toets Kennis Nederlandse Samenleving](https://www.toetskns.nl/)
+> This website contains series of listening exercises.
+
 ## Radio
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
@@ -90,6 +93,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Paolo Sanseverino](https://www.youtube.com/channel/UC9pj96Qd964u6Fo-y9HR9Ag/videos)
 * [Leviwosc](https://www.youtube.com/user/Leviwosc/videos)
 * [VRTTaal](https://www.youtube.com/channel/UCcrNIO8DumCM09VxSVlfHbA)
+* [Ad Appel](https://www.youtube.com/user/gesprokennederlands/videos)
 #### Entertainment
 * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
 * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
