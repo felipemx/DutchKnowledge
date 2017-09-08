@@ -125,6 +125,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Synoniemen](http://synoniemen.net/)
 > Online dictionary for synonims.
 
+* [Gent Vertaalt - Taaldatabank](http://www.gentvertaalt.be/taaldatabank/)
+> Where translators work together, chat and learn.
+
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 > I have a list on Twitter where I store accounts that do posts in Dutch.
@@ -162,6 +165,7 @@ A simple project to store links for useful content for whose want to learn the D
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
 * [Bruzz](http://www.bruzz.be/nl)
+* [Gent Vertaalt](http://www.gentvertaalt.be/blog/)
 
 ## Games and Flashcards
 * [Quia](https://www.quia.com/pages/dutchatstandby.html)
