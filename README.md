@@ -128,6 +128,12 @@ A simple project to store links for useful content for whose want to learn the D
 * [Gent Vertaalt - Taaldatabank](http://www.gentvertaalt.be/taaldatabank/)
 > Where translators work together, chat and learn.
 
+* [Van Dale](http://vandale.be/)
+> A famous online free dictionary with synonyms, translations, meaning and syllable splitting examples.
+
+* [Linguee](http://www.linguee.nl/)
+> Online dictionary with translation, examples of usage of the searched term and references of the word in Wikipedia.
+
 ## Social Media
 * [Twitter List 'Nederlandsetaal'](https://twitter.com/FelipeMX/lists/NederlandseTaal)
 > I have a list on Twitter where I store accounts that do posts in Dutch.
