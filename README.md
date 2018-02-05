@@ -107,6 +107,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Vlaamse Film](http://www.vlaamsefilm.be/)
 * [bon - Agentschap Integratie & Inburgering](https://www.youtube.com/user/bonwelcomeoffice/videos)
 * [NPO3 - Nederlands Publieke Omroepbestel](https://www.npo3.nl/)
+* [TV Limburg](https://www.tvl.be/)
 
 ## Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
