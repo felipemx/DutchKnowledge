@@ -101,13 +101,16 @@ A simple project to store links for useful content for whose want to learn the D
 * [Za Ka](https://www.youtube.com/channel/UCmtBbGtobfeWoHtDnbY9-kw)
 * [NMBS - The national Belgian rail company](https://www.youtube.com/user/NMBStv/)
 * [Morning After Meal](https://www.youtube.com/channel/UCG_aVsM43XC-6x8FNX582zQ/)
-#### Vimeo
+* [VPRO Zondag met Lubach](https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw/videos)
+### Vimeo
 * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
-#### Others
+### Others
 * [Vlaamse Film](http://www.vlaamsefilm.be/)
 * [bon - Agentschap Integratie & Inburgering](https://www.youtube.com/user/bonwelcomeoffice/videos)
+* [NPO - Nederlands Publieke Omroepbestel](https://www.npo.nl/)
 * [NPO3 - Nederlands Publieke Omroepbestel](https://www.npo3.nl/)
 * [TV Limburg](https://www.tvl.be/)
+* [KNO-NCRV - Katholieke Radio Omroep-Nederlandse Christelijke Radio Vereniging](https://www.kro-ncrv.nl/)
 
 ## Online Dictionary
 * [Woordenlijst](http://woordenlijst.org/)
