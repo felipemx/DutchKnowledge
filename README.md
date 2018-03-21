@@ -125,6 +125,9 @@ A simple project to store links for useful content for whose want to learn the D
 * [Verbix](http://www.verbix.com/languages/dutch.shtml)
 > Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
 
+* [bab.la](https://en.bab.la/conjugation/dutch/)
+> Online verb conjugator. Shows the verb in all forms and also with the meaning in English.
+
 * [VRT Taaldatabank](http://taal.vrt.be/woordenboeken-0)
 > You can search for free in the basic version of Van Dale's dictionaries. For the full versions, you must subscribe.
 
