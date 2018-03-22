@@ -73,6 +73,15 @@ A simple project to store links for useful content for whose want to learn the D
 * [Toets Kennis Nederlandse Samenleving](https://www.toetskns.nl/)
 > This website contains series of listening exercises.
 
+* [Regina Coeli](https://www.reginacoeli.nl/)
+> The most famous intensive Dutch course. Expensive but with nice results.
+
+* [Taal Coach Wijzer](https://www.taalcoachwijzer.nl/)
+> Platform with volunteers focused in exercise conversations in Dutch.
+
+* [Taal voor het Leven](https://www.taalvoorhetleven.nl/)
+> Platform with volunteers focused in exercise conversations in Dutch.
+
 ## Radio
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
@@ -102,6 +111,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [NMBS - The national Belgian rail company](https://www.youtube.com/user/NMBStv/)
 * [Morning After Meal](https://www.youtube.com/channel/UCG_aVsM43XC-6x8FNX582zQ/)
 * [VPRO Zondag met Lubach](https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw/videos)
+* [Jeugdjournaal](https://www.youtube.com/user/Jeugdjournaal/videos)
 ### Vimeo
 * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
 ### Others
@@ -176,6 +186,9 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [Taalhelden](http://taalhelden.org/)
 > Website focused on young people containing videos and texts in Dutch language.
+
+* [Jeugdjournaal](https://jeugdjournaal.nl/)
+> Website with a journal using young apporach to the subject.
 
 ## News and Blogs
 * [Brussel Blogt](http://www.brusselblogt.be/)
