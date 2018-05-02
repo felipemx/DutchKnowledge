@@ -164,6 +164,7 @@ A simple project to store links for useful content for whose want to learn the D
 ### Podcasts
 * [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
 * [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
+* [Zeg het in het Nederlands](https://soundcloud.com/user-960408825)
 
 ## Ebook
 * [E-book Online Dutch Grammar Course](http://www.dutchgrammar.com/en/?n=Downloads.01)
