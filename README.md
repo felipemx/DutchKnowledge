@@ -162,7 +162,6 @@ A simple project to store links for useful content for whose want to learn the D
 ### Audiobook
 * [Radioboeken](http://www.radioboeken.eu/index.php?lang=NL)
 ### Podcasts
-* [Neerlandia Journal](http://german.lss.wisc.edu/podcast/Neerlandia_Journaal/) `Discontinued`
 * [Laura speaks Dutch](http://www.lauraspeaksdutch.info/) `Discontinued`
 * [Zeg het in het Nederlands](https://soundcloud.com/user-960408825)
 
