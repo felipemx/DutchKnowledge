@@ -15,6 +15,7 @@ A simple project to store links for useful content for whose want to learn the D
 * [Games and Flashcards](#games-and-flashcards)
 * [Groups](#groups)
 * [Exams](#exams)
+* [Tools](#tools)
 
 <!-- toc stop -->
 
@@ -222,3 +223,6 @@ A simple project to store links for useful content for whose want to learn the D
 
 * [CNaVT - Certificaat Nederlands als Vreemde Taal ](http://cnavt.org/)
 > Information about the exam Dutch as Foreign Language.
+
+## Tools
+* [Languate Tool - NL](https://languagetool.org/nl/)
