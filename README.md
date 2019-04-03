@@ -83,6 +83,12 @@ A simple project to store links for useful content for whose want to learn the D
 * [Taal voor het Leven](https://www.taalvoorhetleven.nl/)
 > Platform with volunteers focused in exercise conversations in Dutch.
 
+* [CambiumNed](https://www.cambiumned.nl)
+> A website full of lessons, videos, exercizes and much more about the Dutch language.
+
+* [Zichtbaar Nederlands](https://zichtbaarnederlands.nl/zn/)
+> Website with lots of visual explanations about the most common doubts in the Dutch language.
+
 ## Radio
 * [Radio1 BE](https://radio1.be/)
 * [Radio2 BE](https://radio2.be/)
@@ -105,6 +111,8 @@ A simple project to store links for useful content for whose want to learn the D
 * [Leviwosc](https://www.youtube.com/user/Leviwosc/videos)
 * [VRT Taal](https://www.youtube.com/channel/UCcrNIO8DumCM09VxSVlfHbA)
 * [Ad Appel](https://www.youtube.com/user/gesprokennederlands/videos)
+* [Voorwaartz](https://www.youtube.com/user/Voorwaartz/videos)
+* [Arnoud Kuijpers](https://www.youtube.com/user/MrArnoud18/videos)
 #### Entertainment
 * [DrugsLab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ)
 * [Potkast](https://www.youtube.com/channel/UCxGrSxHd5mnWX2xyadO8iPg)
