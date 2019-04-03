@@ -121,6 +121,8 @@ A simple project to store links for useful content for whose want to learn the D
 * [Morning After Meal](https://www.youtube.com/channel/UCG_aVsM43XC-6x8FNX582zQ/)
 * [VPRO Zondag met Lubach](https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw/videos)
 * [Jeugdjournaal](https://www.youtube.com/user/Jeugdjournaal/videos)
+* [GTST - Goede Tijden, Slechte Tijden](https://www.youtube.com/user/GTST/videos)
+* [Het Klokhuis](https://www.youtube.com/user/hetklokhuis/videos)
 ### Vimeo
 * [Centrum voor Taal & Onderwijs](https://vimeo.com/user9451303)
 ### Others
